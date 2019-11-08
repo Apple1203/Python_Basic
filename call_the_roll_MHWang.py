@@ -4,7 +4,7 @@ call_the_roll
 
 python 1st exp.
 
-@author:MHWang 09118139
+@author:MHWang
 
 """
 
